@@ -24,7 +24,4 @@ Um aplicativo Android que permite aos usuários explorar uma lista de séries, c
 
 Sempre que uma série é favoritada ou desfavoritada, a lista de séries é atualizada automaticamente para refletir as alterações. As séries favoritas são exibidas no topo da lista.
 
-## 📜 Intuito
-
-Este projeto foi desenvolvido como trabalho prático para a faculdade
 
